@@ -30,7 +30,7 @@ public class NewSort {
         }  
         System.out.println();  
           
-        selectionSort(arr);//sorting array using selection sort  
+        selectionSort(arr);
          
         System.out.println("After Selection Sort");  
         for(int i:arr){  
